@@ -93,4 +93,4 @@ Contiene la presentación del proyecto para exposición académica.
 
 ## 9. Estado del repositorio
 
-Repositorio organizado para entrega académica. Los documentos principales se almacenarán en formato editable `.docx` y versión de consulta `.pdf`.
+Repositorio organizado para entrega académica. Los documentos principales se almacenarán en formato `.pdf`.
